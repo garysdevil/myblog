@@ -1,4 +1,4 @@
-baseURL = "http://garys.top"
+baseURL = "https://garys.top"
 # languageCode = "en-us"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh"
@@ -71,16 +71,16 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 [menu]
 
   [[menu.main]]
-    name = "博客-Posts"
+    name = "博客"
     url = "posts/"
     weight = 10
 
   [[menu.main]]
-    name = "项目-Projects"
+    name = "项目"
     url = "projects/"
     weight = 20
 
   [[menu.main]]
-    name = "关于我-AboutMe"
-    url = "aboutme/"
+    name = "关于我"
+    url = "me/aboutme"
     weight = 20

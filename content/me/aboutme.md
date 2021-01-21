@@ -8,3 +8,5 @@ date = "2020-12-06"
     - [相关文章](https://mp.weixin.qq.com/s/ayQzmDhuhpRA5Jl4tdso5Q)
 
 * 我的邮箱 garys163@163.com
+
+* [我的个人简历](../me2.pdf)
