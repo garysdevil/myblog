@@ -9,6 +9,6 @@ hugo server -D
 ```
 2. 在public下生成静态文件
 ```go
-hugo 
+hugo -D
 ```
 3. 将count.js里的代码追加进public/js/bundle.min*文件内
