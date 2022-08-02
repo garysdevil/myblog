@@ -69,11 +69,25 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     url = "https://github.com/garysdevil"
 
 [menu]
-
   [[menu.main]]
     name = "博客"
-    url = "posts/"
+    url = "posts/" # url必须是小写
     weight = 10
+
+#   [[menu.main]]
+#     name = "IT类博客"
+#     url = "ITNote/"
+#     weight = 10
+
+#   [[menu.main]]
+#     name = "区块链类博客"
+#     url = "BlockchainNote/"
+#     weight = 10
+
+#   [[menu.main]]
+#     name = "思想类博客"
+#     url = "thinkingnote/"
+#     weight = 10
 
   [[menu.main]]
     name = "项目"
